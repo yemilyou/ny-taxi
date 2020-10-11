@@ -10,5 +10,7 @@ The purpose of this exercise is to predict the duration of taxi rides that start
 ## Process
 Data selection & cleaning, Explaratory data analysis, Data visualization, Feature engineering, Model selection
 
-
+## Files
+taxi.db: SQLite database file with ride data
+manhattan_shape.csv: CSV file with latitudes and longitudes of Manhattan area boundaries
 
